@@ -1,11 +1,12 @@
 h3 {
-    color: red;
+    color: aqua;
 
 }
 
 input {
     padding: 8px 10px;
-
+    border-radius: 8px;
+    border-color: aqua;
 }
 
 label {
@@ -15,10 +16,11 @@ label {
 
 button {
     padding: 8px 10px;
-    background-color: rgb(33, 229, 46);
+    background-color: rgb(19, 232, 218);
     border-radius: 8px;
 }
 
 button:hover{
-    background-color: green;
+    background-color: rgb(4, 97, 96);
+    color: white;
 }
